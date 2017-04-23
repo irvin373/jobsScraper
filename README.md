@@ -1,9 +1,9 @@
 # Scraper flisol umss 2017
 
-##Dependencies
+## Dependencies
 for this workshop, we use gem [nokogiri](https://github.com/sparklemotion/nokogiri)
 
-##install dependencies
+## install dependencies
 ...
 gem install nokogiri
 ...
